@@ -1,7 +1,7 @@
 # Android 1 - Intermediate Android Programs
 
 These are some of the Android Concepts that I have been exploring outside of my course.
-## Technologies Learned
+## ⚡ Technologies Learned
 
 I still have a lot to learn about these ideas, but always good to keep in touch with a few technologies.
 - Material Design: Google's standard for UI and UX design
